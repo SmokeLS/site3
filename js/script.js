@@ -29,18 +29,3 @@ $( document ).ready(function() {
     });
 });
 
-/*     
-
-         &-block
-            border-right: 4px solid $default-color
-            border-bottom: 4px solid $default-color;
-            &__wrap
-            position: relative
-                &-header
-                    border: 4px solid $default-color
-                    border-left: 6px solid $default-color
-                &-main
-                    border-left: 4px solid $default-color;
-                
-                
-                */
